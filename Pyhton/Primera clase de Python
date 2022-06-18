@@ -1,0 +1,12 @@
+Variable: Nombres humanos para llamar con el ordenador.
+
+Tipado fuerte: Podemos sumar manzanas con manzanas y no con peras.
+Tipado debil: Podemos sumar manzanas con peras (Javascript)
+
+PYTHON es igual a un tipado fuerte.
+JAVASCRIPT es igual a un tipado debil
+
+Tipado dinamico:  
+Tipado estatico : 
+
+

@@ -1,0 +1,10 @@
+
++-+-+-+-+-+-+
+|1|2|3|4|5|6|
++-+-+-+-+-+-+
+
+VAR CONTADOR = 0
+MIENTRAS (CONTADOR MAYOR A CERO)
+	RESTA UNA AL CONTADOR
+
+SIGO POR AQUI

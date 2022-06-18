@@ -1,0 +1,70 @@
+
+Caracter = 'a'
+
+texto = "hola" (s un secuencia de caracteres)
+numeros = 1234
+numeroF = 1234.56678
+boolenos = True o False
+
+
+----
+
+arrayChar = ['a', 'b', 'c', 'd']
+arrayString = ["hola", "adios"]
+arrayNumeros = [0, 1, 2, 3, 4, 5, 6]
+arrayNumeroF = [1.1, 4.4, 3.14]
+
+arrayInvalido = ['a', "texto", 9, 3.1]
+
+arrayArrays = [
+	[1, 2, 3]
+	[4, 5, 6]
+]
+
+
+tupla = (a, b, c)
+
+array asociativo [
+	"clave" => valor
+]
+
+(Mapas):
+arrayCapitalesPais [
+	"Ucrania" => "Kiev",
+	"Espania" => "Madrid"
+]
+
+
+OBJETOS :
+
+Caja:
+	Propiedades:
+		-Color:marron
+		-Forma: patata
+	Metodos:
+		-Poner Sombrero
+		-Quitar brazo
+
+class Caja {
+	String Color = "marron";
+	String Forma = "patata"
+
+	ponerSombrero() {}
+	quitarBrazo() {}
+
+}
+
+nombre = "Victor" + 0
+
+arrayCaracteres = ['V','i','c','t','o','r', 0]
+
+
+
+
+
+
+
+
+
+
+

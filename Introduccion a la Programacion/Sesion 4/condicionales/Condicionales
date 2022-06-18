@@ -1,0 +1,30 @@
+LOGICAS
+ "Y" &&
+ "O" ||
+
+
+COMPARATIVAS
+"Mayor que" >
+"Menor que" <
+"Mayor o igual que" >=
+"Menor o igual que" <=
+"Igual a " ==
+"Distinto a" !=
+
+VAR ESTACION = "VERANO"
+VAR TEMPERATURA = 19
+
+Si (ESTACION igual a "VERANO") entonces | "if"
+	Aqui las acciones a tomar
+	BEBER_AGUA()
+	BANIARSE_EN_LA_PISCINA()
+	TOMARSE_UN_MOJITO()
+	IRSE_AL_BAR()
+
+En caso contrario si(ESTACION igual a "Primavera" entonces ) | "else if"
+	SALIR_DE_PASEO()
+	IR_A_VER_A_LOS_AMIGOS_CON_MASCARILLA()
+En caso contrario entonces | "else"
+	PONERSE_EL_ABRIGO()
+	BEBER_CHOCOLATE_CALIENTE()
+	VER_LA_TELE()
